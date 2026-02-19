@@ -3,7 +3,9 @@
         "title": "Installed Datapacks",
         "description": "",
         "icon": {
-            "item": "minecraft:knowledge_book"
+            "id": "anima_ultima:anima_ultima_head",
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: '_TheCho_'}"
         },
         "background": "minecraft:textures/block/gray_concrete.png",
         "show_toast": false,
