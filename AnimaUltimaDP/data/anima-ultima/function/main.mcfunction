@@ -4,5 +4,4 @@
  #
  # Created by _TheCho_.
 ##
-scoreboard objectives add Muertes deathCount
-scoreboard objectives add processed dummy
+execute as @a[scores={Muertes=2..,processed=0}] run function anima-ultima:reset
