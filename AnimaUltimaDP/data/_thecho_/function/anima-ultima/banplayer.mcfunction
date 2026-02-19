@@ -2,4 +2,4 @@ tellraw @a {"text":"☠ Se acabó tu Life: ","color":"dark_red","extra":[{"selec
 
 ban @s Hardcore death
 
-scoreboard players set @s processed 3
+scoreboard players set @s processed 1
