@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "AnimaUltimaDP",
+        "description": "This a personal project inspired by Permadeath by ElRichMC, but it drinks from Dominican folklore to justify events, enemies, etc",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: '_TheCho_'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
